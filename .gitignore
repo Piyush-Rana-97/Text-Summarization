@@ -1,0 +1,25 @@
+# train model
+saved_summary_model/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Dataset
+data/
+dataset/
+*.csv
+
+# IDE
+.vscode/
+.idea/
